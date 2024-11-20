@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+lib/
+.github/
+broadcast/
+.gitignore
+zkout/
